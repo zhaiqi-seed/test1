@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.zq.eureka.EurekaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.228 s - in com.zq.eureka.EurekaApplicationTests
